@@ -1,0 +1,28 @@
+{
+  "name": "workshop-day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elan4u/workshop-D1.git"
+  },
+  "keywords": [
+    "Wordshop",
+    "Elan",
+    "day1"
+  ],
+  "author": "Elan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elan4u/workshop-D1/issues"
+  },
+  "homepage": "https://github.com/elan4u/workshop-D1#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
